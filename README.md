@@ -1,0 +1,2 @@
+# ban
+test script

